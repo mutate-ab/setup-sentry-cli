@@ -103,3 +103,4 @@ organization `my-org`.
 
 You are now ready to use the Sentry CLI commands such as
 `sentry-cli releases`!
+
